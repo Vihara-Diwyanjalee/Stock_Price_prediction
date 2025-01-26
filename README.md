@@ -2,7 +2,8 @@
 # stock_price_prediction_project
 
 This project about predicting the stock data price using a simple Neural Network and explained the Moving Average concept and finally predicted different stock data prices like Google, Microsoft, HDFC and Bit coin. 
-:+1: Search (yahoo finance) to download dataset.
+
+:+1: Search yahoo finance to find datasets.
 
 ## Steps
 
@@ -18,4 +19,4 @@ This project about predicting the stock data price using a simple Neural Network
 
 # Final Application
 
-![alt text](https://github.com/Vihara-Diwyanjalee/Sentiment-Analysis-Project/blob/main/demo.png?raw=true)
+![alt text](https://github.com/Vihara-Diwyanjalee/Stock_Price_prediction/blob/main/demo.png?raw=true)
